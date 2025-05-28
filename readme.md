@@ -1,6 +1,7 @@
 
 # Project Overview
 This project is a Computer Vision-based Attendance System that allows users to register faces and recognize them using both a Command Line Interface (CLI) and a Graphical User Interface (GUI).
+Contains multi-thread architecture and MVC pattern architecture for scalability and responsiveness
 
 ## Features
 - Face registration and recognition
