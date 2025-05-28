@@ -74,6 +74,5 @@ To run the test script, Use CLI and select `option 3`
 ---
 
 # Contact
-For any issues, contact: Prabhu Gurung (K2463337)
-
+For any issues, contact: prabhu.eversoft@gmail.com
 ---
