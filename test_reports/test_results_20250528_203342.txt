@@ -1,0 +1,2 @@
+{'operation': 'registration', 'username': 'cristiano', 'status': 'success', 'time': 2.554798126220703}
+{'operation': 'recognition', 'username': 'cristiano', 'predicted': 'Unknown', 'is_match': False, 'time': 0.2727320194244385}
