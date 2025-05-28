@@ -37,6 +37,8 @@ python app/main-cli.py
 ### CLI Options
 - Register a new user: Follow prompts to input user details and provide registration images.
 - Recognize a face: Provide a test image to identify the user.
+- Mark Attendance using photo or web cam
+- Run test case and generate confusion matrix on seeded test case data
 
 ## B. Using the GUI App
 Launch the GUI for a user-friendly interface:
